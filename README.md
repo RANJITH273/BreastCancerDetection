@@ -32,8 +32,7 @@ Clone this repository to your local machine:
 
 ```bash```
 
-git clone https://github.com/Boobalamurugan/CVIP-DataScience/tree/main/Phase_1_Project/BreastCancerPrediction
-
+git clone https://github.com/RANJITH273/BreastCancerDetection/blob/c58db5a7c73f0dfed888e5527335bca7b692d4de/BreastCancerPrediction.ipynb
 3. Navigate to the project directory:
 
 ```bash```
@@ -52,5 +51,5 @@ In the Jupyter Notebook, follow the step-by-step guide to train the breast cance
 ## Acknowledgments
 We would like to thank the University of Wisconsin Hospitals for providing the Breast Cancer Wisconsin dataset, which has been instrumental in this research and Kaggle.
 
-## Authors
-Boobalamurugan S
+## Author
+Ranjith B S
